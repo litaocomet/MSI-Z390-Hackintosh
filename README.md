@@ -1,0 +1,2 @@
+# MSI-Z390-Hackintosh
+微星MPG Z390 GAMING PRO CARBON 蓝宝石Vega64黑苹果
